@@ -1,3 +1,4 @@
+
 ## Alla Zhukova
 
 **Contact info:**
@@ -27,7 +28,7 @@ Gomel State Technical University
 
 specialities:  Equipment  and technologies for the production of containers and packaging
 
-qualification:  ingeener
+qualification:  engineer
 
 
 **English level**
